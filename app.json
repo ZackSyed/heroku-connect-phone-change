@@ -2,7 +2,6 @@
   "name": "react connect",
   "description": "Heroku Connect react App",
   "repository": "https://github.com/ZackSyed/react-heroku-connect",
-  "success_url": "/setup.html",
   "env": {
     "PGSSLMODE": {
       "description": "Require SSL for Postgres",
